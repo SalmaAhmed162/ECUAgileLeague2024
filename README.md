@@ -20,3 +20,12 @@ Rpository for practicing git pull, push, making first pull request and working w
  Add your blocks here ⬇⬇⬇
 ---
 
+## Salma Ahmed Kamel 192200136
+**Favorite Quote:** "Believe you can and you're halfway there."  
+**LinkedIn:** ["https://www.linkedin.com/in/salma-ahmed-7552a1266/"]  
+**Additions:** 
+- I love coding and exploring new technologies.  
+- Favorite programming language: Python 🐍  
+
+--- 
+
